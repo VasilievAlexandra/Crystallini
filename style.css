@@ -1,0 +1,134 @@
+.headblock {
+    height: 70px;
+    background: #c6cbff;
+    display: flex;
+    padding-top: 15px;
+    padding-left: 40px;
+    
+    
+}
+.headline {
+   height: 60px;
+    width: 200px;
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 50px;
+    box-sizing: border-box;
+    padding-left: 15px
+}
+.btn {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background: #e5e5ff:
+        
+}
+.btn:hover {
+    background: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    transition: 0.2s;
+   
+    
+}
+.imgbg {
+    height: 400px;
+    background-image: url(images.png);
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    
+    
+}
+.headline {
+    height: 300px;
+    width: 600px;
+    font-family: sans-serif;
+    font-size: 40px;
+    background: #c6cbff;
+    box-sizing: border-box;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.iconsmini {
+    display: flex
+}
+.root {
+    background: #c6cbff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border:0;
+    height: 50px;
+    border-radius: 20px;
+    margin-right: 10px
+}
+.icons {
+    width: 450px;
+    height: 300px;
+ 
+    padding-top: 30px;
+}
+.displeyflex {
+    display: flex
+}
+.imgicons {
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 100px;
+    width: 100px
+}
+.imgtext {
+    height: 300px;
+    width: 550px;
+    background-image: url(poi.jpeg);
+    background-size: 100%
+    
+    
+}
+.imgbgg {
+    background-image: url(mlp.jpeg)
+}
+.bigdiv {
+    width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+    background: white
+    
+}
+.bg {
+    background: #c6cbff
+}
+.startline {
+    height: 100px;
+    
+}
+.footline {
+    height: 200px;
+    background-image: url(здь.jpeg);
+    background-size: 100%;
+    padding-top: 50px;
+    box-sizing: border-box
+    
+}
+.footboll {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border:0;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto
+}
+
